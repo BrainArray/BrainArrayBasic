@@ -228,10 +228,11 @@ body {
 
 .hero__logo {
     display: block;
-    height: 300px;
+    height: 250px;
     width: auto;
     margin-bottom: 1.5rem;
-    padding-left: 18px;
+    padding-left: 15px;
+    padding-top: 40px;
 }
 
 .hero__badge {
